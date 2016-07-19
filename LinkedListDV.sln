@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListDV", "LinkedListDV\LinkedListDV.csproj", "{C49690D2-AD91-4B3F-BDC9-E27564277A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49690D2-AD91-4B3F-BDC9-E27564277A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49690D2-AD91-4B3F-BDC9-E27564277A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49690D2-AD91-4B3F-BDC9-E27564277A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49690D2-AD91-4B3F-BDC9-E27564277A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
